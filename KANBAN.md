@@ -38,11 +38,17 @@
 |-------|-------|----|-------|
 | **#7556** | `display.show_reasoning` not honored by API server adapter | 5 | Small/Medium — add reasoning extraction + injection in API server chat completions path |
 
-## In Progress (Build)
+## Awaiting Review
 
-| Issue | Plan |
-|-------|------|
-| **#7556** | Executing PLAN-7556.md |
+| Issue | PR |
+|-------|----|
+| **#7556** | [chrislazar25/hermes-agent#1](https://github.com/chrislazar25/hermes-agent/pull/1) — include reasoning_content in API server responses |
+
+## Done
+
+| Issue | Notes |
+|-------|-------|
+| #7556 | Draft PR created. Fixes `display.show_reasoning` not honored by API server adapter. |
 
 ## In Progress (Build)
 
